@@ -2,7 +2,7 @@
     "qr_id": 1,
     "gorev": {
         "formasyon": {
-            "aktif": True,
+            "aktif": False,
             "tip": "OKBASI"
         },
         "manevra_pitch_roll": {
