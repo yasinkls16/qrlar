@@ -17,9 +17,9 @@
         "bekleme_suresi_s": 3
     },
     "suruden_ayrilma": {
-        "aktif": False,
-        "ayrilacak_drone_id": None,
-        "hedef_renk": None,
+        "aktif": True,
+        "ayrilacak_drone_id": 1,
+        "hedef_renk": "MAVI",
         "bekleme_suresi_s": None
     },
     "sonraki_qr": {
