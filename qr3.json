@@ -20,7 +20,7 @@
         "aktif": True,
         "ayrilacak_drone_id": 1,
         "hedef_renk": "MAVI",
-        "bekleme_suresi_s": None
+        "bekleme_suresi_s": 5
     },
     "sonraki_qr": {
         "team_1": 4,
