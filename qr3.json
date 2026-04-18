@@ -19,7 +19,7 @@
     "suruden_ayrilma": {
         "aktif": True,
         "ayrilacak_drone_id": 1,
-        "hedef_renk": "KIRMIZI",
+        "hedef_renk": "MAVI",
         "bekleme_suresi_s": 5
     },
     "sonraki_qr": {
